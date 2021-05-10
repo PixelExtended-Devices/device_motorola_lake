@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/styx_lake.mk
+    $(LOCAL_DIR)/aosp_lake.mk
 
 COMMON_LUNCH_CHOICES := \
-    styx_lake-eng \
-    styx_lake-user \
-    styx_lake-userdebug
+    aosp_lake-eng \
+    aosp_lake-user \
+    aosp_lake-userdebug
