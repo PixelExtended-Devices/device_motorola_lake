@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_lake.mk
+    $(LOCAL_DIR)/legion_lake.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_lake-eng \
-    aosp_lake-user \
-    aosp_lake-userdebug
+    legion_lake-eng \
+    legion_lake-user \
+    legion_lake-userdebug
